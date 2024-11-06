@@ -13,4 +13,4 @@ open the game folder
 right click on the unused area
 open the "Open in terminal" and type the below command
 python pygame5.py
-press enter and it will project the game
+press enter and it will project the game.
